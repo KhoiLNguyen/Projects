@@ -1,0 +1,21 @@
+body {
+  border: 20px solid gray;
+  max-width: 700px;
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+
+}
+
+.fpara {
+  border-left: 5px solid gray;
+  padding-left: 5px;
+}
+
+.date {
+  color: skyblue;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
