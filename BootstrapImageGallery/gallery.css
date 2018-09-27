@@ -1,0 +1,59 @@
+body {
+  padding: 70px;
+}
+
+.jumbotron {
+  color: #2c3e50;
+  background: #ecf0f1;
+}
+
+.navbar-inverse {
+  color: #2c3e50
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image1 {
+  background-image: url(https://source.unsplash.com/97EsPNBX9UU);
+} 
+.image2 {
+  background-image: url(https://source.unsplash.com/AUYYJQZXArM)
+} 
+.image3 {
+  background-image: url(https://source.unsplash.com/Ov8Q8vY1MIs);
+} 
+.image4 {
+  background-image: url(https://source.unsplash.com/97Ir6ym25N4);
+} 
+.image5 {
+  background-image: url(https://source.unsplash.com/3HbSg1lhYc0);
+} 
+.image6 {
+  background-image: url(https://source.unsplash.com/O2u0ewVO_s4);
+} 
+.image7 {
+  background-image: url(https://source.unsplash.com/oJ92QvGCghw);
+} 
+.image8 {
+  background-image: url(https://source.unsplash.com/snFoQx3jZX8);
+} 
+.image9 {
+  background-image: url(https://source.unsplash.com/tJsmFvxFYBQ);
+} 
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
