@@ -1,8 +1,5 @@
-$('h1').on('click', function() {
-
-  $(this).css("backgroundColor", "white")
-});
-
-$('input').on('keypress',function(event) {
-  console.log("Keypressed");
+$('button').on('click', function() {
+  $('div').slideToggle(10000, function() {
+  
+  });
 });
